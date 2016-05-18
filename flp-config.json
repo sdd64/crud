@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "crud",
+        "description": "Der future ist nao",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#crud-Display",
+        "navigationComponentName": "crud",
+        "intentSemanticObject": "crud",
+        "intentAction": "Display",
+        "html5ApplicationName": "crud",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "00000000-0000-1111-0000-00000000"
+        ],
+        "contentPackages": [
+            "00000000-0000-2222-0000-00000000"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "KALU Fiori",
+        "subtitle": "Der future ist nao",
+        "searchKeywords": "KALU Fiori,Der future ist nao",
+        "displayIconUrl": "sap-icon://dishwasher",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
